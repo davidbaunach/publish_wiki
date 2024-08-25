@@ -1,6 +1,6 @@
 {
   "vaultName": "techpriest_wiki",
-  "lastExport": 1724545562580,
+  "lastExport": 1724546282647,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -14,7 +14,7 @@
     "Techpriest_Wiki/Media/Images/kratky-images-016.jpeg",
     "Techpriest_Wiki/Media/Images/LogGit logo.jpeg",
     "Techpriest_Wiki/Media/Images/would-you-001.jpeg",
-    "Techpriest_Wiki/The Web/Natural/Anarchism/Initial Findings in my Studies of Anarchism- The Human Mycelial Network.md",
+    "Techpriest_Wiki/The Web/Natural/Anarchism/Initial Findings in my Studies of Anarchism-The Human Mycelial Network.md",
     "Techpriest_Wiki/The Web/Natural/Electricity/Computers/Internet/the Internet.md",
     "Techpriest_Wiki/The Web/Natural/Electricity/Computers/License/Creative Commons Licenses.md",
     "Techpriest_Wiki/The Web/Natural/Electricity/Computers/License/license.md",
@@ -154,771 +154,771 @@
   ],
   "fileInfo": {
     "Techpriest_Wiki/Media/Books/Deschooling Society.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 247222,
       "exportedPath": "Techpriest_Wiki/Media/Books/Deschooling Society.html",
       "dependencies": []
     },
     "Techpriest_Wiki/Media/Images/220px-The_Blue_Marble_(remastered).jpg": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 16931,
       "exportedPath": "Techpriest_Wiki/Media/Images/220px-The_Blue_Marble_(remastered).jpg",
       "dependencies": []
     },
     "Techpriest_Wiki/Media/Images/kratky-images-005_orig.jpeg": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 83356,
       "exportedPath": "Techpriest_Wiki/Media/Images/kratky-images-005_orig.jpeg",
       "dependencies": []
     },
     "Techpriest_Wiki/Media/Images/kratky-images-6_orig.jpg": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 52398,
       "exportedPath": "Techpriest_Wiki/Media/Images/kratky-images-6_orig.jpg",
       "dependencies": []
     },
     "Techpriest_Wiki/Media/Images/kratky-images-014_orig.jpeg": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 108939,
       "exportedPath": "Techpriest_Wiki/Media/Images/kratky-images-014_orig.jpeg",
       "dependencies": []
     },
     "Techpriest_Wiki/Media/Images/kratky-images-016.jpeg": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 47018,
       "exportedPath": "Techpriest_Wiki/Media/Images/kratky-images-016.jpeg",
       "dependencies": []
     },
     "Techpriest_Wiki/Media/Images/LogGit logo.jpeg": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 4206,
       "exportedPath": "Techpriest_Wiki/Media/Images/LogGit logo.jpeg",
       "dependencies": []
     },
     "Techpriest_Wiki/Media/Images/would-you-001.jpeg": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 83525,
       "exportedPath": "Techpriest_Wiki/Media/Images/would-you-001.jpeg",
       "dependencies": []
     },
-    "Techpriest_Wiki/The Web/Natural/Anarchism/Initial Findings in my Studies of Anarchism- The Human Mycelial Network.md": {
-      "modifiedTime": 1724545562580,
-      "sourceSize": 2868,
-      "exportedPath": "Techpriest_Wiki/The Web/Natural/Anarchism/Initial Findings in my Studies of Anarchism- The Human Mycelial Network.html",
-      "dependencies": []
-    },
     "Techpriest_Wiki/The Web/Natural/Electricity/Computers/Internet/the Internet.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 7563,
       "exportedPath": "Techpriest_Wiki/The Web/Natural/Electricity/Computers/Internet/the Internet.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Natural/Electricity/Computers/License/Creative Commons Licenses.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3134,
       "exportedPath": "Techpriest_Wiki/The Web/Natural/Electricity/Computers/License/Creative Commons Licenses.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Natural/Electricity/Computers/License/license.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 11093,
       "exportedPath": "Techpriest_Wiki/The Web/Natural/Electricity/Computers/License/license.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Natural/Electricity/Computers/computation.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 387,
       "exportedPath": "Techpriest_Wiki/The Web/Natural/Electricity/Computers/computation.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Natural/Electricity/Computers/computer.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 2812,
       "exportedPath": "Techpriest_Wiki/The Web/Natural/Electricity/Computers/computer.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Natural/Electricity/Off Grid/100 Rabbits/100 Rabbits.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 8378,
       "exportedPath": "Techpriest_Wiki/The Web/Natural/Electricity/Off Grid/100 Rabbits/100 Rabbits.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Natural/Electricity/Off Grid/100 Rabbits/Off the Grid.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 48734,
       "exportedPath": "Techpriest_Wiki/The Web/Natural/Electricity/Off Grid/100 Rabbits/Off the Grid.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Natural/Electricity/Off Grid/Secure Scuttlebutt/Secure Scuttlebutt.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 2604,
       "exportedPath": "Techpriest_Wiki/The Web/Natural/Electricity/Off Grid/Secure Scuttlebutt/Secure Scuttlebutt.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Natural/Electricity/Off Grid/off grid.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 1014,
       "exportedPath": "Techpriest_Wiki/The Web/Natural/Electricity/Off Grid/off grid.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Natural/Electricity/Off Grid/sneakernet.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 486,
       "exportedPath": "Techpriest_Wiki/The Web/Natural/Electricity/Off Grid/sneakernet.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Natural/Electricity/Off Grid/tiny personal grid.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 31959,
       "exportedPath": "Techpriest_Wiki/The Web/Natural/Electricity/Off Grid/tiny personal grid.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Natural/Electricity/electricity.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 62818,
       "exportedPath": "Techpriest_Wiki/The Web/Natural/Electricity/electricity.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Natural/Permaculture/Aquaponics/Aquaponics.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 519,
       "exportedPath": "Techpriest_Wiki/The Web/Natural/Permaculture/Aquaponics/Aquaponics.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Natural/Permaculture/Hydroponics/Hydroponics.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 2401,
       "exportedPath": "Techpriest_Wiki/The Web/Natural/Permaculture/Hydroponics/Hydroponics.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Natural/Permaculture/Hydroponics/Kratky Method.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3347,
       "exportedPath": "Techpriest_Wiki/The Web/Natural/Permaculture/Hydroponics/Kratky Method.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Natural/Permaculture/Permaculture.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 604,
       "exportedPath": "Techpriest_Wiki/The Web/Natural/Permaculture/Permaculture.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Natural/Anarchy.md": {
-      "modifiedTime": 1724545562580,
-      "sourceSize": 5151,
+      "modifiedTime": 1724546282647,
+      "sourceSize": 5263,
       "exportedPath": "Techpriest_Wiki/The Web/Natural/Anarchy.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Natural/earth.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 5762,
       "exportedPath": "Techpriest_Wiki/The Web/Natural/earth.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Natural/nature.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 12835,
       "exportedPath": "Techpriest_Wiki/The Web/Natural/nature.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Natural/vegetable.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 1064,
       "exportedPath": "Techpriest_Wiki/The Web/Natural/vegetable.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Catholic Public Domain Version/The_Sacred_Bible.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 5232811,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Catholic Public Domain Version/The_Sacred_Bible.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 01.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 4201,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 01.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 02.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3329,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 02.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 03.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3673,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 03.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 04.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3473,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 04.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 05.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3019,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 05.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 06.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3064,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 06.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 07.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3158,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 07.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 08.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3119,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 08.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 09.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3520,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 09.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 10.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 2837,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Douay-Rheims/Genesis/Chapter 10.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Douay-Rheims/Douay-Rheims.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3572,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Douay-Rheims/Douay-Rheims.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Douay-Rheims/Douay-Rheimsindex.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 789,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Douay-Rheims/Douay-Rheimsindex.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 01.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3709,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 01.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 02.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3054,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 02.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 03.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3183,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 03.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 04.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3183,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 04.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 05.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3043,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 05.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 06.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 2837,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 06.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 07.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3019,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 07.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 08.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 2948,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 08.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 09.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3392,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 09.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 10.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 2704,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 10.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 11.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3439,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 11.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 12.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 2764,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 12.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 13.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 2415,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 13.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 14.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3257,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 14.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 15.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 2440,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 15.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 16.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 2164,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 16.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 17.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3273,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 17.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 18.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 4164,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 18.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 19.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 5167,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 19.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 20.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 2452,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 20.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 21.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3591,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 21.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 22.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 2992,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 22.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 23.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 2497,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 23.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 24.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 8372,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 24.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 25.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3569,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 25.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 26.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 4456,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 26.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 27.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 6055,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 27.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 28.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 2933,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 28.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 29.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3945,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 29.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 30.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 5118,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 30.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 31.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 6613,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 31.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 32.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 4225,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 32.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 33.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 2706,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 33.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 34.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3746,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 34.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 35.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3332,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 35.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 36.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3882,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 36.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 37.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 4586,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 37.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 38.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3908,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 38.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 39.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 2851,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 39.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 40.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 2654,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 40.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 41.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 6267,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 41.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 42.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 4923,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 42.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 43.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 4870,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 43.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 44.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 4316,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 44.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 45.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3835,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 45.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 46.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3730,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 46.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 47.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 4407,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 47.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 48.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3320,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 48.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 49.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3546,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 49.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 50.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 3347,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Genesis/Chapter 50.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Vulgate.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 1559,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Vulgate.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Vulgateindex.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 1427,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Vulgate/Vulgateindex.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Sacred Scripture/Sacred Scripture.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 2692,
       "exportedPath": "Techpriest_Wiki/The Web/Sacred Scripture/Sacred Scripture.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Supernatural/Supernatural.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 20048,
       "exportedPath": "Techpriest_Wiki/The Web/Supernatural/Supernatural.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/The Church/Controversies/Scripture Copyright/Free the Word.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 29343,
       "exportedPath": "Techpriest_Wiki/The Web/The Church/Controversies/Scripture Copyright/Free the Word.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/The Church/Controversies/Scripture Copyright/Scripture Copyright.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 44,
       "exportedPath": "Techpriest_Wiki/The Web/The Church/Controversies/Scripture Copyright/Scripture Copyright.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/The Church/Controversies/Controversies.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 57,
       "exportedPath": "Techpriest_Wiki/The Web/The Church/Controversies/Controversies.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/The Church/Parish/Minimum Viable Parochial Structure.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 515,
       "exportedPath": "Techpriest_Wiki/The Web/The Church/Parish/Minimum Viable Parochial Structure.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/The Church/Parish/parish.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 807,
       "exportedPath": "Techpriest_Wiki/The Web/The Church/Parish/parish.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/The Church/Saints/saint.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 683,
       "exportedPath": "Techpriest_Wiki/The Web/The Church/Saints/saint.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/The Church/Theologians/Dorothy Day.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 878,
       "exportedPath": "Techpriest_Wiki/The Web/The Church/Theologians/Dorothy Day.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/The Church/Theologians/Ivan Illich.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 40285,
       "exportedPath": "Techpriest_Wiki/The Web/The Church/Theologians/Ivan Illich.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/The Church/Theologians/Peter Maurin.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 51734,
       "exportedPath": "Techpriest_Wiki/The Web/The Church/Theologians/Peter Maurin.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/The Church/Theologians/theologian.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 908,
       "exportedPath": "Techpriest_Wiki/The Web/The Church/Theologians/theologian.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/The Church/Voluntary Organizations/Catholic Worker.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 1252,
       "exportedPath": "Techpriest_Wiki/The Web/The Church/Voluntary Organizations/Catholic Worker.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/The Church/Voluntary Organizations/Saint Maker.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 10305,
       "exportedPath": "Techpriest_Wiki/The Web/The Church/Voluntary Organizations/Saint Maker.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/The Church/Church.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 136076,
       "exportedPath": "Techpriest_Wiki/The Web/The Church/Church.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/The Church/priesthood.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 89836,
       "exportedPath": "Techpriest_Wiki/The Web/The Church/priesthood.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/God.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 102242,
       "exportedPath": "Techpriest_Wiki/The Web/God.html",
       "dependencies": []
     },
     "Techpriest_Wiki/The Web/Jesus Christ.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 83834,
       "exportedPath": "Techpriest_Wiki/The Web/Jesus Christ.html",
       "dependencies": []
     },
     "Techpriest_Wiki/index.md": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 351,
       "exportedPath": "Techpriest_Wiki/index.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1724545562580,
+      "modifiedTime": 1724546282647,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    },
+    "Techpriest_Wiki/The Web/Natural/Anarchism/Initial Findings in my Studies of Anarchism-The Human Mycelial Network.md": {
+      "modifiedTime": 1724546282647,
+      "sourceSize": 2868,
+      "exportedPath": "Techpriest_Wiki/The Web/Natural/Anarchism/Initial Findings in my Studies of Anarchism-The Human Mycelial Network.html",
       "dependencies": []
     }
   }
